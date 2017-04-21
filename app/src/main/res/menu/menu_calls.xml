@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/filtrer"
+        android:title="Chercher"
+        >
+
+<menu>
+
+    <item android:id="@+id/parDate"
+        android:title="Par date"/>
+
+
+    <item android:id="@+id/tous"
+        android:title="Toutes les traces"/>
+
+
+
+</menu>
+
+
+    </item>
+
+
+    <item  android:id="@+id/setting"
+        android:title="Paramétres"></item>
+
+</menu>

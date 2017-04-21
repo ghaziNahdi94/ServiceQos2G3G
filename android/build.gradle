@@ -1,0 +1,3 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('android.jar'))
+artifacts.add("default", file('junit-3.8.1.jar'))
